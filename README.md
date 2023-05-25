@@ -10,7 +10,7 @@ slovar = {"key1": "value1",
           "key5": "value5"}
 ```
 
-Создать переменную <code>keys</code и <code>values</code> где будет ["key1", "key2", ..., "key5"] и ["value1", "value2", ..., "value5"] соответственно.
+Создать переменную <code>keys</code> и <code>values</code> где будет ["key1", "key2", ..., "key5"] и ["value1", "value2", ..., "value5"] соответственно.
 
 > Создай два решения: с использованием цикла и без
 
